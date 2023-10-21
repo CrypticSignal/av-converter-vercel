@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "@ffmpeg/core-mt": "0.12.4",
-    "@ffmpeg/ffmpeg": "0.12.7",
+    "@ffmpeg/ffmpeg": "0.12.6",
     "@ffmpeg/util": "0.12.1",
     "@reduxjs/toolkit": "^1.9.7",
     "axios": "^1.5.1",
